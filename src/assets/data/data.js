@@ -75,13 +75,13 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Lorem Ipsum',
-            icon: './src/assets/images/bca.png',
+            name: 'Jamjam Firman Maulana',
+            icon: './src/assets/images/bri.png',
             rekening: '12345678'
         },
         {
             id: 2,
-            name: 'Ipsum Lorem',
+            name: 'Neng Yunitasari',
             icon: './src/assets/images/bri.png',
             rekening: '12345678'
         },
