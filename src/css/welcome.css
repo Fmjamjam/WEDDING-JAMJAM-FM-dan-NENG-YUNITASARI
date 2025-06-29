@@ -6,7 +6,7 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background-image: url('../images/couple.png');
+    background-image: url('https://github.com/Fmjamjam/testundangan/blob/main/src/assets/images/jf%20ny.png?raw=true');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -21,7 +21,6 @@
     opacity: 0;
     transform: translateY(-100%);
 }
-
 
 .welcome.active {
     transform: translateY(0);
