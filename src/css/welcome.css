@@ -52,7 +52,7 @@
     border-radius: 50%;
     object-fit: cover;
     box-shadow: var(--shadow-md);
-    border: 2px solid #fff;
+    border: 2px solid #000;
 }
 
 .welcome figure figcaption {
