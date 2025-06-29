@@ -6,7 +6,10 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background-color: #800000;
+    background-image: url('../../images/jf ny.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     position: fixed;
     top: 0;
     left: 0;
@@ -17,11 +20,8 @@
     transition: all 2s ease-in;
     opacity: 0;
     transform: translateY(-100%);
-    background-image: url('assets/images/couple.png');
-    background-size: cover;       /* agar gambar memenuhi seluruh area */
-    background-repeat: no-repeat; /* agar tidak mengulang */
-    background-position: center;  /* agar terpusat */
 }
+
 
 .welcome.active {
     transform: translateY(0);
