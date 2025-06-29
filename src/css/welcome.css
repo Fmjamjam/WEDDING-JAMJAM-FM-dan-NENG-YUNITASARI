@@ -17,6 +17,10 @@
     transition: all 2s ease-in;
     opacity: 0;
     transform: translateY(-100%);
+    background-image: url('jf ny.jpg');
+    background-size: cover;       /* agar gambar memenuhi seluruh area */
+    background-repeat: no-repeat; /* agar tidak mengulang */
+    background-position: center;  /* agar terpusat */
 }
 
 .welcome.active {
