@@ -76,14 +76,14 @@ export const data = {
         {
             id: 1,
             name: 'Jamjam Firman Maulana',
-            icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            icon: './src/assets/images/dana.png',
+            rekening: '087778968095'
         },
         {
             id: 2,
             name: 'Neng Yunitasari',
             icon: './src/assets/images/bri.png',
-            rekening: '12345678'
+            rekening: '329301032213532'
         },
     ],
 
