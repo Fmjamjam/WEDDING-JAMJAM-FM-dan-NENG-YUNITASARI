@@ -41,12 +41,12 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Jl Gembor Kp. Muhara desa Diladaeun, KEC.LEBAKGEDONG, KAB. LEBAK, BANTEN, 42373'
     },
 
     link: {
         calendar: 'https://calendar.app.google/6vfRQirRibtAcxLz6',
-        map: 'https://maps.app.goo.gl/q1Ask2Jgd4ekiiKBA',
+        map: 'https://maps.app.goo.gl/XXua38uKCU9hsxyHA',
     },
 
     galeri: [
