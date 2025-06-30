@@ -12,8 +12,8 @@ export const data = {
             id: 2,
             name: 'Neng Yunitasari',
             child: 'Putri ke 2',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            father: 'Yayan',
+            mother: 'Aan',
             image: './src/assets/images/cewe.png'
         },
 
