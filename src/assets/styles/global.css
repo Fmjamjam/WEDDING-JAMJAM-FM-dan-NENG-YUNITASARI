@@ -1,6 +1,6 @@
 :root {
     --primary-font-color: '#212529';
-    --bg-color: #ace1af;
+    --bg-color: #d1f3d6;
 
     --fontSize-heading-lg: 3rem;
     --fontSize-heading-base: 2.8rem;
@@ -31,7 +31,7 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     color: var(--primary-font-color);
     overflow-y: hidden;
-    background: linear-gradient(to bottom, #ffffff 0%, #e5f8e8 100%);
+    background: linear-gradient(to bottom, #ffffff 0%, #d1f3d6 100%);
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
