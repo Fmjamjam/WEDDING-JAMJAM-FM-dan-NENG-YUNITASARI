@@ -31,7 +31,7 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     color: var(--primary-font-color);
     overflow-y: hidden;
-    background: linear-gradient(to bottom, #ffffff 0%, #d1f3d6 70%);
+    background: linear-gradient(to bottom, #ffffff 30%, #d1f3d6 70%);
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
