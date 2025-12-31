@@ -21,6 +21,16 @@ export const data = {
     },
 
     time: {
+         openhouse: {
+            year: '2026',
+            month: 'Maret',
+            date: '25',
+            day: 'Rabu',
+            hours: {
+                start: '09.00',
+                finish: 'Selesai'
+            }
+         },
         marriage: {
             year: '2026',
             month: 'Maret',
@@ -47,6 +57,7 @@ export const data = {
     link: {
         calendar: 'https://calendar.app.google/6vfRQirRibtAcxLz6',
         map: 'https://maps.app.goo.gl/XXua38uKCU9hsxyHA',
+        mapc: 'https://maps.app.goo.gl/HkbMsB4EMmTMRSeMA',
     },
 
     galeri: [
