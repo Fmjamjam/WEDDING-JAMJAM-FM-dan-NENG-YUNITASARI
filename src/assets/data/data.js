@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra ke 2',
             father: 'Zainal Mutakin',
             mother: 'Dedah Rosidah',
-            image: './src/assets/images/cowo.png'
+            image: './src/assets/images/jam.png'
         },
         P: {
             id: 2,
@@ -14,7 +14,7 @@ export const data = {
             child: 'Putri ke 2',
             father: 'Yayan',
             mother: 'Aan',
-            image: './src/assets/images/cewe.png'
+            image: './src/assets/images/neng.png'
         },
 
         couple: './src/assets/images/couple.png'
@@ -24,20 +24,20 @@ export const data = {
         marriage: {
             year: '2026',
             month: 'Maret',
-            date: '27',
-            day: 'Kamis',
+            date: '28',
+            day: 'Sabtu',
             hours: {
-                start: '09.00',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
         reception: {
             year: '2026',
             month: 'Maret',
-            date: '27',
-            day: 'Kamis',
+            date: '28',
+            day: 'Sabtu',
             hours: {
-                start: '11.00',
+                start: '10.00',
                 finish: 'Selesai'
             }
         },
@@ -52,23 +52,23 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.png'
+            image: './src/assets/images/gabung.png'
         },
         {
             id: 2,
-            image: './src/assets/images/2.png'
+            image: './src/assets/images/dua.png'
         },
         {
             id: 3,
-            image: './src/assets/images/3.png'
+            image: './src/assets/images/kalem.png'
         },
         {
             id: 4,
-            image: './src/assets/images/4.png'
+            image: './src/assets/images/toel.png'
         },
         {
             id: 5,
-            image: './src/assets/images/5.png'
+            image: './src/assets/images/edit.png'
         }
     ],
 
