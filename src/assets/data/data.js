@@ -21,16 +21,6 @@ export const data = {
     },
 
     time: {
-         openhouse: {
-            year: '2026',
-            month: 'Maret',
-            date: '25',
-            day: 'Rabu',
-            hours: {
-                start: '09.00',
-                finish: 'Selesai'
-            }
-         },
         marriage: {
             year: '2026',
             month: 'Maret',
