@@ -4,7 +4,7 @@ export const data = {
             id: 1,
             name: 'Jamjam Firman Maulana, S.Kom',
             child: 'Putra ke 2',
-            father: 'Zainal Mutakin',
+            father: 'Zainal Mutakin (Alm)',
             mother: 'Dedah Rosidah',
             image: './src/assets/images/jam.png'
         },
@@ -47,7 +47,6 @@ export const data = {
     link: {
         calendar: 'https://calendar.app.google/6vfRQirRibtAcxLz6',
         map: 'https://maps.app.goo.gl/XXua38uKCU9hsxyHA',
-        mapc: 'https://maps.app.goo.gl/HkbMsB4EMmTMRSeMA',
     },
 
     galeri: [
