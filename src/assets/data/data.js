@@ -24,8 +24,8 @@ export const data = {
         marriage: {
             year: '2026',
             month: 'Maret',
-            date: '28',
-            day: 'Sabtu',
+            date: '29',
+            day: 'Minggu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
@@ -34,8 +34,8 @@ export const data = {
         reception: {
             year: '2026',
             month: 'Maret',
-            date: '28',
-            day: 'Sabtu',
+            date: '29',
+            day: 'Minggu',
             hours: {
                 start: '10.00',
                 finish: 'Selesai'
