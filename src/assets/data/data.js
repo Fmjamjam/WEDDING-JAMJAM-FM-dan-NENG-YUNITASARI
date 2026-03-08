@@ -85,6 +85,12 @@ export const data = {
             icon: './src/assets/images/bri.png',
             rekening: '329301032213532'
         },
+        {
+            id: 3,
+            name: 'Jamjam Firman Maulana',
+            icon: './src/assets/images/bri.png',
+            rekening: '406901017201530'
+        },
     ],
 
     audio: './src/assets/audio/wedding.mp3',
